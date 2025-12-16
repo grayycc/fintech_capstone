@@ -1,4 +1,4 @@
-# FinPro Robo-Advisor (FastAPI + Streamlit)
+# FinPro Asset Recommender System (FastAPI + Streamlit)
 
 A simple robo-advisor prototype:
 - **Backend (FastAPI)** serves recommendations via `/recommend`
