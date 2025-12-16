@@ -13,7 +13,8 @@ A simple robo-advisor prototype:
 - Python **3.10 / 3.11** recommended  
   (If you use Python 3.12 and hit binary/architecture errors, use 3.11.)
 - macOS users: avoid Rosetta if you’re on Apple Silicon.
-
+- Activate venv
+- Install dependencies 
 ---
 
 ## 1) Setup (Virtual Environment)
